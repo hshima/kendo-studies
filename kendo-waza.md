@@ -358,15 +358,61 @@ To execute combination techniques effectively, your mental conviction and body m
 
 #### 出鼻技 (でばなわざ - Debana Waza): timing-based, anticipatory techniques
 
-Even though Debana feels like a counter-attack because the opponent is moving, it is considered Shikake because your forward mental pressure (seme) is what forcefully provoked them into launching that predictable attack in the first place
+Even though Debana feels like a counter-attack because the opponent is moving, it is considered Shikake because your forward mental pressure (seme) is what forcefully provoked them into launching that predictable attack in the first place.
+
+The word Debana translates literally to "the very moment of emergence" or "the snout of the movement".
+
+Rather than striking an opponent who is standing still, or attacking in combinations after they block, Debana Waza is the execution of a lightning-fast strike at the precise millisecond your opponent decides to launch their own attack, catching them when they are completely committed to forward motion but before their blade can descend.
+
+1. **出鼻面 (でばなめん - Debana-Men) / Head Strike at the Onset**
+
+    Executed when the opponent attempts to launch a Men strike under pressure. The moment they break their own 中段の構え (Chūdan no Kamae) and lift their hands to swing, their centerline is completely exposed. You drive straight forward along the absolute center, your blade slicing downward to land perfectly true on their head pad (Men) while their sword is still stuck at the apex of its upward swing.
+
+1. **出鼻小手 (でばなこて - Debana-Kote) / Wrist Strike at the Onset**
+
+    Executed when the opponent lifts their hands high to strike your head. As their arms rise, their right wrist (Kote) moves upward and forward, creating a highly visible, static target. You execute a compact, downward wrist snap using sharp 手の内 (Tenouchi) to catch the underside or side of their right wrist padding the exact instant their hands reach their highest point.
 
 #### 払い技 (はらいわざ - Harai waza): Sweeping techniques
 
+払い技 (Harai Waza) is a dynamic class of techniques designed to forcefully dismantle an opponent's physical posture (構え - Kamae) [AJKF]. This method is deployed when an opponent maintains a highly rigid, defensive, or stubborn centerline that cannot be breached by mental pressure (攻め - Seme) alone.
+
+By executing a sharp, percussive sweep or slap against the opponent's shinai, you physically displace their weapon from the centerline. This sudden structural failure creates an immediate, unguardable opening, allowing you to deliver an instantaneous strike to an exposed target in a single, unbroken motion.
+
+A technically flawed Harai Waza is often executed as two separate actions (slap, then swing). A valid point (一本 - Ippon), however, demands that the sweep and the strike fuse into a single, seamless kinetic chain.
+
+    [ Sharp Tenouchi Sweep ] ───(Continuous Momentum)───> [ Instant Stamping Cut ]
+     (Displace Enemy Shinai)                                 (Fumikomi-ashi Target)
+
+1. **The Contact Point**: You step forward into 一足一刀の間合い (Issoku Ittō no Maai). Your sweep must target the top third of the opponent's blade, just below their kensen. Hitting too close to their handguard (つば - Tsuba) will not move their sword; hitting the very tip allows their blade to spring back too quickly.
+1. **The Wrist Snap**: You use the side ridge line (鎬 - Shinogi) of your blade to strike theirs. The power does not come from swinging your arms, but from a compact, inward rotation of the wrists (手の内 - Tenouchi).
+1. **The Continuous Arc**: The moment your blade deflects their shinai, you do not stop or pull your sword back. You leverage the upward or lateral momentum of the deflection to immediately carry your blade straight into the target area.
+1. **The Termination**: The strike must land with perfect blade alignment (刃筋 - Hasuji) at the exact millisecond your right foot stomps the floorboards (踏み込み足 - Fumikomi-ashi).
+
+#### Core Tactical Classifications
+
+The fundamental variation for clearing the centerline.
+
+-   **Omote (表) Variation:** From *Chūdan*, you execute a sharp, diagonal downward or lateral slap from your left to right against the opponent's blade. This knocks their *shinai* outward to **their right (your left)**, exposing the top of their head for a direct, vertical *Men* cut.
+
+-   **Ura (裏) Variation (Most Common in Shiai):** You cross your blade over to slap their *shinai* from your right to your left. This drives their sword outward to **their left (your right)**. Because this strike hits in the direction of their open fingers on the *tsuka* handle, it easily forces their grip to fail, creating a massive, chaotic opening for an immediate *Men* strike.
+
+Harai Waza is categorized by the direction of the sweep — 表 (おもて - your left side, facing the opponent's left), or 裏 (うら - Ura / your right side, facing the opponent's right/kote side) — and its corresponding target:
+
 - 払い面 (はらいめん - Harai Men): Sweeping strike to the head
+    
+    The fundamental variation for clearing the centerline.
+    -   **Omote Sweep:** A sharp, percussive slap from your left to right, knocking their *shinai* outward to *their* right (your left) to clear a path for a vertical *Men* cut.
+    -   **Ura Sweep:** A crossover slap from your right to left, driving their sword to *their* left (your right). This attacks the open side of their grip, making it highly effective in *shiai* for destabilizing their balance before the *Men* strike.
 
-- 払い小手 (はらいこて - Harai Kote): Sweeping strike to the right wrist. You typically sweep the opponent's blade upwards or outwards to expose the wrist underneath.
+- 払い小手 (はらいこて - Harai Kote): Sweeping strike to the right wrist. 
 
-- 払い胴 (はらいどう - Harai Dō): Sweeping strike to the torso. Usually executed by sharply lifting or sweeping their blade upward (Harai-age) to clear a path straight to their right ribcage.
+    A precision technique used to expose the right forearm padding. You typically execute a sharp **Omote sweep** to slap the opponent's blade downward or outward to your left. This lateral displacement removes their protection and completely isolates their right wrist, allowing you to instantly snap your hands down onto the *Kote* target.
+
+- 払い胴 (はらいどう - Harai Dō): Sweeping strike to the torso.
+
+    A specialized technique deployed against opponents who rigidly guard their upper targets (raises their shinai too often). You execute a sharp, upward sweeping motion (**払い上げ - Harai-age**) from the *Omote* side to fling their blade up and away from their center. As their hands chase the deflection upward, their right flank is completely exposed. You immediately drop your center of gravity, realign your *hasuji*, and cut diagonally through the right ribcage (*Dō*).
+
+Reference: [Kendo and Iaido Concepts: Omote vs. Ura](https://www.youtube.com/watch?v=Wfq7QRzZMLs&t=4s)
 
 #### 巻き (まきわざ - Maki waza): Spiraling
 
@@ -385,7 +431,7 @@ Counter-attacking techniques where you wait for the opponent to strike first, th
 #### 擦り上げ技 (すりあげわざ - Suriage Waza)
 
 
-# References
+## References
 
 - [[WAZA STUDY] - 8 Ways to Make a Successful MEN Strike!](https://youtu.be/YsAV3rx_UEE?si=hR9Pxqkg-9AWuv5N)
 
@@ -393,3 +439,4 @@ Counter-attacking techniques where you wait for the opponent to strike first, th
     - https://web.archive.org/web/20260115182821/https://hy-kendo.com/2024/10/19/understanding-shikake-waza-and-oji-waza-in-kendo-strategies-for-beginners/
 - [Hasuji](https://sites.google.com/site/rakushinkan/blog/article-on-hasuji)
     - https://web.archive.org/web/20250616013831/https://sites.google.com/site/rakushinkan/blog/article-on-hasuji
+- [Kendo and Iaido Concepts: Omote vs. Ura](https://www.youtube.com/watch?v=Wfq7QRzZMLs&t=4s)
