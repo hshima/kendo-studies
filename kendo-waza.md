@@ -197,7 +197,7 @@ graph TD
     subgraph ExecutionBox
         direction LR
         Fumikomi["踏み込み足<br>Fumikomi-ashi<br>(Explosive Stamping Step)"]
-        DatotsuLabel["Datotsu / 打突 <br>(Striking Execution)"]
+        DatotsuLabel["打突<br>Datotsu<br>(Striking Execution)"]
         
         %% Forces vertical stacking inside a horizontal layout container
         Fumikomi ~~~ DatotsuLabel
