@@ -1,0 +1,78 @@
+# ====================================================================
+# HTML/PDF Build Outputs (If using tools like Pandoc, MkDocs, Obsidian)
+# ====================================================================
+*.html
+*.pdf
+*.epub
+*.mobi
+_site/
+build/
+dist/
+out/
+
+# ====================================================================
+# Operating System Junk Files
+# ====================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+
+# ====================================================================
+# IDEs and Text Editors
+# ====================================================================
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+!kendo-studies.code-workspace
+
+# Obsidian (Ignore local workspace layouts but keep core configuration)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/hotkeys.json
+
+# JetBrains (IntelliJ, WebStorm, etc.)
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ====================================================================
+# Node/Package Managers (If using Markdown linters, Prettier, or static site tools)
+# ====================================================================
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.eslintcache
+
+# ====================================================================
+# Python / Static Site Generators (e.g., MkDocs, Sphinx, Jekyll)
+# ====================================================================
+__pycache__/
+*.pyc
+.jekyll-cache/
+.sass-cache/
+
+# ====================================================================
+# Backup and Temporary Files
+# ====================================================================
+*.bak
+*.tmp
+*.log
+.env
