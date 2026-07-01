@@ -392,27 +392,88 @@ A technically flawed Harai Waza is often executed as two separate actions (slap,
 
 The fundamental variation for clearing the centerline.
 
--   **Omote (表) Variation:** From *Chūdan*, you execute a sharp, diagonal downward or lateral slap from your left to right against the opponent's blade. This knocks their *shinai* outward to **their right (your left)**, exposing the top of their head for a direct, vertical *Men* cut.
+-   **Omote (表) Variation:** From *Chūdan*, you execute a sharp, diagonal downward or lateral slap from your right to left against the opponent's blade. This knocks their *shinai* outward to **their right (your left)**, exposing the top of their head for a direct, vertical *Men* cut.
 
--   **Ura (裏) Variation (Most Common in Shiai):** You cross your blade over to slap their *shinai* from your right to your left. This drives their sword outward to **their left (your right)**. Because this strike hits in the direction of their open fingers on the *tsuka* handle, it easily forces their grip to fail, creating a massive, chaotic opening for an immediate *Men* strike.
+-   **Ura (裏) Variation (Most Common in Shiai):** You cross your blade over to slap their *shinai* from your left to your right. This drives their sword outward to **their left (your right)**. Because this strike hits in the direction of their open fingers on the *tsuka* handle, it easily forces their grip to fail, creating a massive, chaotic opening for an immediate *Men* strike.
 
-Harai Waza is categorized by the direction of the sweep — 表 (おもて - your left side, facing the opponent's left), or 裏 (うら - Ura / your right side, facing the opponent's right/kote side) — and its corresponding target:
+```
+                   CHUDAN-NO-KAMAE (Neutral Centerline)
+                   ====================================
+                   
+                           [ Opponent's Body ]
+                           /                 \
+        (Opponent's Left / Kote Side)     (Opponent's Right / Chest Side)
+                                  \         /
+                                   \       /
+                                    \     /
+                                     \   /
+                                      \ /
+                            [ Opponent's Shinai ]
+                                      |
+                                      |
+  ====================================X====================================
+  URA SIDE (Your Right)               |               OMOTE SIDE (Your Left)
+  --------------------                |               ----------------------
+  * Contact on RIGHT side of shinai   |   * Contact on LEFT side of shinai
+  * Matches opponent's Kote side      |   * Default starting position
+                                      |
+                            [ Your Own Shinai ]
+                                      |
+                                      |
+                                      ^
+                                  [ You ]
+```
+
+Harai Waza is categorized by the direction of the sweep — 表 (おもて - your left side, facing the opponent's right/chest side), or 裏 (うら - your right side, facing the opponent's left/kote side) — and its corresponding target:
 
 - 払い面 (はらいめん - Harai Men): Sweeping strike to the head
     
     The fundamental variation for clearing the centerline.
-    -   **Omote Sweep:** A sharp, percussive slap from your left to right, knocking their *shinai* outward to *their* right (your left) to clear a path for a vertical *Men* cut.
-    -   **Ura Sweep:** A crossover slap from your right to left, driving their sword to *their* left (your right). This attacks the open side of their grip, making it highly effective in *shiai* for destabilizing their balance before the *Men* strike.
+    -   **Omote Sweep:** A sharp, percussive slap from your right to left, knocking their *shinai* outward to *their* left (your right) to clear a path for a vertical *Men* cut.
+    -   **Ura Sweep:** A crossover slap from your left to right, driving their sword to *their* left (your right). This attacks the open side of their grip, making it highly effective in *shiai* for destabilizing their balance before the *Men* strike.
+
+
+    References: 
+    - [Kendo and Iaido Concepts: Omote vs. Ura](https://www.youtube.com/watch?v=Wfq7QRzZMLs&t=4s)
+    - [Pressuring Ura and Omote (Imazato Manabu)](https://kendojidai.com/2024/08/05/pressuring-ura-and-omote-imazato-manabu/)
 
 - 払い小手 (はらいこて - Harai Kote): Sweeping strike to the right wrist. 
 
-    A precision technique used to expose the right forearm padding. You typically execute a sharp **Omote sweep** to slap the opponent's blade downward or outward to your left. This lateral displacement removes their protection and completely isolates their right wrist, allowing you to instantly snap your hands down onto the *Kote* target.
+    A precision technique used to expose the right forearm padding. You typically execute a sharp **Ura sweep** to slap the opponent's blade upward or outward to your right. This lateral displacement removes their protection and completely isolates their right wrist, allowing you to instantly snap your hands down onto the *Kote* target.
+
+    This variation targets the wrist by destabilizing the opponent's guard. Because the Kote is located on the opponent’s right side (your left), Ura execution is the most common and tactically efficient setup for this target.
+    
+    - **Omote Sweep** (Less Common for Kote):
+        - Execution: From Chūdan, execute a sharp snap from your right to left against the left side of their blade.
+        - Result: This knocks their shinai outward to their right (your left).
+        - Tactical Follow-up: Because their blade is pushed away from their Kote, you must slice diagonally across the centerline to catch their wrist. This is often used as a feint—making them think Men is coming so they lift their hands, exposing the wrist underneath.
+
+    - **Ura Sweep** (Highly Effective Shiai Setup):
+        - Execution: Cross your blade over to the right side of their blade and execute a sharp snap from your left to right.
+        - Result: This drives their shinai outward to their left (your right).
+        - Tactical Follow-up: This mechanical push knocks their sword directly away from their Kote side while collapsing their grip leverage. Your shinai lands perfectly in the center of their body, allowing you to drop straight down into an instantaneous, compact Kote strike with zero wasted movement.
+
+    Use it when the opponent has a soft and flexible kamae.
+    
+    References:
+    - [Tip of the week: haraigote](https://www.youtube.com/shorts/ukQT4m2d4HQ)
+    - [Pressuring Ura and Omote (Komeda Toshiro)](https://kendojidai.com/2024/07/15/pressuring-ura-and-omote-komeda-toshiro/)
 
 - 払い胴 (はらいどう - Harai Dō): Sweeping strike to the torso.
 
     A specialized technique deployed against opponents who rigidly guard their upper targets (raises their shinai too often). You execute a sharp, upward sweeping motion (**払い上げ - Harai-age**) from the *Omote* side to fling their blade up and away from their center. As their hands chase the deflection upward, their right flank is completely exposed. You immediately drop your center of gravity, realign your *hasuji*, and cut diagonally through the right ribcage (*Dō*).
 
-Reference: [Kendo and Iaido Concepts: Omote vs. Ura](https://www.youtube.com/watch?v=Wfq7QRzZMLs&t=4s)
+    This variation clears the centerline to expose the torso. It is highly effective against opponents who hold a very stiff, rigid kamae or those who heavily track and block your Men attempts.
+
+    - **Omote Sweep** (Standard Gyaku-Do Setup):
+        - Execution: Execute a sharp snap from your right to left against the left side of their blade.
+        - Result: This knocks their shinai outward to their right (your left).
+        - Tactical Follow-up: Pushing their blade to your left exposes the left side of their torso. You immediately transition the momentum of the sweep into a diagonal, descending strike to their Gyaku-Do (reverse/left torso).
+    - **Ura Sweep** (Standard Migi-Do Setup):
+        - Execution: Cross your blade over to the right side of their blade and execute a sharp snap from your left to right.
+        - Result: This drives their shinai outward to their left (your right).
+        - Tactical Follow-up: This forces their blade far to your right. Because their hands are driven wide, the path to their Migi-Do (standard/right torso) is completely unguarded. You drop your hands slightly and slice cleanly through the right side of their ribcage.
+
 
 #### 巻き (まきわざ - Maki waza): Spiraling
 
@@ -440,3 +501,6 @@ Counter-attacking techniques where you wait for the opponent to strike first, th
 - [Hasuji](https://sites.google.com/site/rakushinkan/blog/article-on-hasuji)
     - https://web.archive.org/web/20250616013831/https://sites.google.com/site/rakushinkan/blog/article-on-hasuji
 - [Kendo and Iaido Concepts: Omote vs. Ura](https://www.youtube.com/watch?v=Wfq7QRzZMLs&t=4s)
+- [Pressuring Ura and Omote (Imazato Manabu)](https://kendojidai.com/2024/08/05/pressuring-ura-and-omote-imazato-manabu/)
+- [Kendo Techniques Guide](https://www.kendo-guide.com/kendo_techniques.html)
+- [Pressuring Ura and Omote (Komeda Toshiro)](https://kendojidai.com/2024/07/15/pressuring-ura-and-omote-komeda-toshiro/)
